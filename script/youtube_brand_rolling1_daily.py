@@ -25,7 +25,7 @@ from typing import Dict, List, Iterable, Tuple
 import pandas as pd
 import requests
 
-API_KEY = 'AIzaSyCYDdffhCEKauoHtuWDyE5TpC5wmojvrY4'
+API_KEY = 'API_KEY'
 
 KEYWORDS_PATH = Path('../files/fnb_keywords_sample.csv')
 
