@@ -17,7 +17,7 @@ import streamlit as st
 import plotly.express as px
 import numpy as np
 
-DATA_DIR = (Path(__file__).parent / "../combined_data").resolve()
+DATA_DIR = (Path(__file__).parent / "../new_data").resolve()
 PANEL_FILE = "yt_brand_daily_panel.csv"
 ROLL7_FILE = "yt_brand_roll7_daily.csv"
 
